@@ -1,4 +1,4 @@
-# todo-list-simple
+# todo-list-simple golang
 A TODO list connected to MongoDB. 
 
 * GOLANG + MONGODB *
